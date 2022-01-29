@@ -1,0 +1,5 @@
+[finitegdrive]
+type = drive
+scope = drive
+token = {""}
+root_folder_id = 
